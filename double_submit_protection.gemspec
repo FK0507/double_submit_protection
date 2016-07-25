@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = DoubleSubmitProtection::VERSION
   gem.authors       = ["willnet"]
   gem.email         = ["netwillnet@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = "This gem protect double submit"
+  gem.summary       = ""
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
